@@ -1,0 +1,75 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: rgb(243, 241, 241);
+}
+.aadhaar {
+  background-color: white;
+  margin-top: 15px;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.img-header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+h1 {
+  text-align: center;
+  font-size: 1.5em;
+}
+.orange {
+  background-color: orange;
+  margin-bottom: 50px;
+}
+
+.green {
+  background-color: green;
+  margin-bottom: 15px;
+}
+.row {
+  display: flex;
+  justify-content: space-between;
+}
+.enroll {
+  display: flex;
+  justify-content: space-between;
+}
+
+.info {
+  margin-left: 60px;
+}
+.barcode {
+  margin: 53px 53px;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 25px;
+}
+.center {
+  text-align: center;
+}
+.red {
+  color: red;
+}
+.after {
+  text-align: center;
+}
+.after-gov {
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.info-aadhaar {
+  display: flex;
+  gap: 5px;
+}
+#user-photo {
+  height: 110px;
+  width: 110px;
+}
+h3 {
+  text-align: center;
+}
